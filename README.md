@@ -14,7 +14,7 @@ of the [oneAPI specification] for oneDNN component.
 The library is optimized for Intel(R) Architecture Processors, Intel Graphics,
 and Arm(R) 64-bit Architecture (AArch64)-based processors. oneDNN has
 experimental support for the following architectures: NVIDIA\* GPU,
-AMD\* GPU, OpenPOWER\* Power ISA (PPC64), IBMz\* (s390x), and RISC-V.
+AMD\* GPU, OpenPOWER\* Power ISA (PPC64), IBMz\* (s390x), RISC-V and LoongArch64.
 
 oneDNN is intended for deep learning applications and framework
 developers interested in improving application performance on CPUs and GPUs.
